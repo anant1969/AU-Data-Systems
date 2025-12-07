@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Ominitalk",
+  "description": "A real-time voice translation app enabling seamless two-way communication with AI-powered translations, speech synthesis, and smart response suggestions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
